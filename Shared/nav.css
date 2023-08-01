@@ -1,0 +1,10 @@
+.nav{
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    background: dodgerblue;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
